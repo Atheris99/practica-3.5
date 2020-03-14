@@ -18,7 +18,7 @@ h2.escritorio {
     text-align: center;
     position: relative;
     left: 10px;
-    width: 650px;
+    width: 435px;
     top: -25px;
     font-size: 30px;
 }
@@ -41,4 +41,24 @@ h3 {
 p {
     background-color: white;
     border-radius: 20px;
+}
+
+h2.internet {
+    color: white;
+    background-color: royalblue;
+    text-align: center;
+    position: relative;
+    left: 10px;
+    width: 435px;
+    top: -25px;
+    font-size: 30px;
+}
+
+section.internet {
+    position: absolute;
+    top: 6rem;
+    right: 10%;
+    width: 35%;
+    border-left: black 2px solid;
+    border-right: black 2px solid;
 }
